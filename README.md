@@ -11,7 +11,7 @@
 Le Japon ce pays insulaire situé dans l'océan Pacifique , ma toujours fasciné .
 Son histoire millénaire , sa gastronomie ....<p>
   
-  <img>= https://img.ev.mu/images/regions/130/1605x642/130.jpg >
+  
   
    
   <body>

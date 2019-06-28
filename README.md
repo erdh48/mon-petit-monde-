@@ -1,7 +1,7 @@
 
 
  <html>   
-  </head>
+ 
   <body>
   <h2> MES PASSIONS PRINCIPALES </h2>
   

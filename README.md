@@ -18,7 +18,7 @@ Son histoire millénaire , sa gastronomie , son histoire tumultueuse avec ses pr
 Cependant on ne va pas se mentir, du club Dorothée aux films de Miyazaki , j'ai toujours été baignée parfois sans le savoir dans la culture nippone depuis mon enfance cela a eu forcement une grande influence sur ma fascination pour Le Pays du Soleil-Levant . <br>
 <hr>
 
-J’aimerai pouvoir raconter mon voyage au Japon ce que j'ai vu , ressenti , le patrimoine historique , la politesse des japonais , les véritables sushis qui fondent dans la bouche .<br>
+J’aimerai pouvoir raconter mon voyage au Japon , ce que j'ai vu , ressenti , le patrimoine historique , la politesse des japonais , les véritables sushis qui fondent dans la bouche .<br>
 Mon ascension au Mont Fuji , la vie nocturne Tokyoïte, le quartier nord-coréen en plein Tokyo .<br>
 Mais ce serait bien trop long à raconter...<br>
 

@@ -3,9 +3,9 @@
 
   </head>
   <body>
-    <h1> VOYAGES </h1>
+    <h2> VOYAGES </h2>
   
-    <h2> JAPON </h2>
+    <h3> JAPON </h3>
     <p>
     
 Le Japon ce pays insulaire situé dans l'océan Pacifique , ma toujours fasciné .
@@ -16,7 +16,7 @@ Son histoire millénaire , sa gastronomie ....<p>
   
    
   <body>
-    <h2> MALDIVES </h2>
+    <h3> MALDIVES </h3>
   
     
  <p>  Les Maldives sont un État insulaire de l'océan Indien.

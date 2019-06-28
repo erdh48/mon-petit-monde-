@@ -24,7 +24,8 @@ Mais ce serait bien trop long à raconter...<br>
 <hr>
 <img src= " https://cdn.pixabay.com/photo/2016/12/12/22/31/japan-1902834_960_720.jpg  "   >
   
-  
+  <br>
+  <br>
    
   <body>
    <u>  <h4> MALDIVES </h4>  </u>

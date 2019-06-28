@@ -42,7 +42,7 @@ Mais ce serait bien trop long à raconter...<br>
    
     <img src= " https://cdn.pixabay.com/photo/2016/07/13/10/56/rice-1514141_960_720.jpg  "   >
     
-    </br clear=""all"">
+    
     
     <P> Découvrir de nouvelles cultures et d’autres horizons,  ma permis l’acceptation de l’autre . <br>
     Voyager est un excellent moyen pour faire des rencontres, se libérer des préjugés, se remettre en question.

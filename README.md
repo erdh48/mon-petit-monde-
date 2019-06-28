@@ -44,7 +44,7 @@ Un seul bémol et pas des moindres! Après avoir vu les Maldives, j'ai par la su
    <br>
    <br>
    <br>
-   <br>
+   
   <u>  <h4> BALI </h4>  </u>
    
    <p> Bali est une île d'Indonésie ," L'île des dieux "est véritablement une destination exotique avec ses forêts tropicales, ses volcans, ses rizières ...<br>
@@ -59,7 +59,8 @@ Tout le charme d’une île du sud-est asiatique .<br>
     
     <hr>
     
-    
+    <br>
+    <br>
     
     <P> Découvrir de nouvelles cultures et d’autres horizons,  ma permis l’acceptation de l’autre . <br>
     Voyager est un excellent moyen pour faire des rencontres, se libérer des préjugés, se remettre en question.

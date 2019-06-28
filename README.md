@@ -37,3 +37,12 @@ Son histoire millénaire , sa gastronomie ....<p>
     
     <P> Découvrir de nouvelles cultures et d’autres horizons,  ma permis l’acceptation de l’autre ,  voyager est un excellent moyen pour faire des rencontres , se libérer des préjugés, se remettre en question.
     <P>
+    
+    
+    video control preload="https://pixabay.com/fr/videos/particule-cosmique-cosmos-%C3%A9toiles-24241/" >
+
+
+
+
+
+

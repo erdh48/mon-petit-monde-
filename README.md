@@ -47,17 +47,10 @@ Mais ce serait bien trop long à raconter...<br>
     <P> Découvrir de nouvelles cultures et d’autres horizons,  ma permis l’acceptation de l’autre . <br>
     Voyager est un excellent moyen pour faire des rencontres, se libérer des préjugés, se remettre en question.
     <P>
+    
     <hr>
     
-<html>
-  <head>
 
-  </head>
-  <body>    
-    
-    <video control preload="https://pixabay.com/fr/videos/particule-cosmique-cosmos-%C3%A9toiles-24241/" >
-    </video>
-  <body>  
   
   <html>
     

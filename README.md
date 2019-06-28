@@ -3,7 +3,7 @@
  <html>   
  
   <body>
-  <h2> MES PASSIONS PRINCIPALES </h2>
+  <h2>   PRINCIPALES PASSIONS </h2>
   
      <h3> LES VOYAGES : </h3>  
      <hr>
@@ -72,7 +72,7 @@ Tout le charme d’une île du sud-est asiatique .<br>
 
   
   <html>
- </head>
+ 
   <body>
   <h3> l'Histoire  </h3>  
  

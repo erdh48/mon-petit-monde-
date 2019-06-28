@@ -5,7 +5,7 @@
   <body>
   <h2> MES PASSIONS PRINCIPALES </h2>
   
-    <h3> VOYAGES </h3>
+    <h3> LES VOYAGES </h3>
   
     <h4> JAPON </h4>
     <p>

@@ -44,8 +44,11 @@ Mais ce serait bien trop long à raconter...<br>
     
     </br clear=""all"">
     
-    <P> Découvrir de nouvelles cultures et d’autres horizons,  ma permis l’acceptation de l’autre ,  voyager est un excellent moyen pour faire des rencontres, se libérer des préjugés, se remettre en question.
+    <P> Découvrir de nouvelles cultures et d’autres horizons,  ma permis l’acceptation de l’autre . <br>
+    Voyager est un excellent moyen pour faire des rencontres, se libérer des préjugés, se remettre en question.
     <P>
+    <hr>
+    
 <html>
   <head>
 

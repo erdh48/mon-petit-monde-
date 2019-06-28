@@ -47,11 +47,17 @@ Un seul bémol et pas des moindres! Après avoir vu les Maldives, j'ai par la su
    <br>
   <u>  <h4> BALI </h4>  </u>
    
-   <p> Bali est une île d'Indonésie .
+   <p> Bali est une île d'Indonésie ," L'île des dieux "est véritablement une destination exotique avec ses forêts tropicales, ses volcans, ses rizières ...<br>
+Tout le charme d’une île du sud-est asiatique .<br>
+ Ce voyage fut une véritable destination sportive surf, rafting en pleine jungle...
 
 <p>
+ <hr>
+ 
    
     <img src= " https://cdn.pixabay.com/photo/2016/07/13/10/56/rice-1514141_960_720.jpg  "   >
+    
+    <hr>
     
     
     

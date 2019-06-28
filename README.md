@@ -10,7 +10,8 @@
     
 Le Japon ce pays insulaire situé dans l'océan Pacifique , ma toujours fasciné .
 Son histoire millénaire , sa gastronomie ....<p>
-  
+ 
+  <img src=  https://media.istockphoto.com/photos/osaka-tower-japan-picture-id962650558    >
   
   
    

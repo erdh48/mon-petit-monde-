@@ -12,12 +12,12 @@
     
 Le Japon ce pays insulaire situé dans l'océan Pacifique , m'a toujours fascinée . <br>
 
-Son histoire millénaire , sa gastronomie ,son histoire tumultueuse avec ses proches voisins....<br> 
+Son histoire millénaire , sa gastronomie , son histoire tumultueuse avec ses proches voisins...<br> 
 
 Cependant on ne va pas se mentir, du club Dorothée aux films de Miyazaki , j'ai toujours été baigné parfois sans le savoir dans la culture nippone depuis mon enfance cela à eu forcement une grande influence sur ma fascination pour Le Pays du Soleil-Levant . <br>
+<hr>
 
-
-J’aimerai pouvoir raconter mon voyage au Japon ce que j'ai vu , ressenti , le patrimoine historique , la politesse des japonais , les véritables sushis qui fondent dans la bouche , mon ascension sur le Mont Fuji , la vie nocturne tokyoite, le quartier nord coréen en plein Tokyo. <br>
+J’aimerai pouvoir raconter mon voyage au Japon ce que j'ai vu , ressenti , le patrimoine historique , la politesse des japonais , les véritables sushis qui fondent dans la bouche , mon ascension sur le Mont Fuji , la vie nocturne tokyoite, le quartier nord coréen en plein Tokyo . <br>
 Mais ce serait bien trop long à raconter... <br>
 
 <hr>

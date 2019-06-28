@@ -6,7 +6,8 @@
   <h2> MES PASSIONS PRINCIPALES </h2>
   
      <h3> LES VOYAGES : </h3>  
-  
+     <hr>
+  <br>
   <u>   <h4> JAPON </h4>  </u>
     <p>
     

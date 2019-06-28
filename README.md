@@ -30,9 +30,14 @@ Mais ce serait bien trop long à raconter...<br>
    <u>  <h4> MALDIVES </h4>  </u>
  
 
-  <p>  Les Maldives sont un État insulaire de l'océan Indien.
-   <p>
+  <p>  Les Maldives sont situées en plein Océan Indien, un de mes voyages le plus reposant . <br>
+ Des eaux translucides, les lagons turquoise, les plages de sable blanc bordées de cocotiers . <br>
+ Un véritable paradis sur terre .<br> 
+Un seul bémol et pas des moindres! Après avoir vu les Maldives, j'ai par la suite systématiquement étais déçue des autres plages que j'ai pu voir dans d'autres pays . <br>
+ Difficile de rivaliser avec le paradis...
+  <p>
       <img src= " https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704_960_720.jpg  "   >
+   <hr>
      
   <u>  <h4> BALI </h4>  </u>
    

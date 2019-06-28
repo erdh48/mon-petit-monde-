@@ -82,13 +82,13 @@ Tout le charme d’une île du sud-est asiatique .<br>
  <img src =" https://cdn.pixabay.com/photo/2018/07/29/22/18/tare-3571224_960_720.jpg " >
  
  <hr>
- 
+<P> 
 "Il y a deux Histoires : l'Histoire officielle, mensongère, qui nous est enseignée; et l'Histoire secrète où se trouvent les vraies causes des événements, une Histoire honteuse " - Balzac. <br>
 <br>
 <hr>
-l'Histoire m'a toujours intriguée . Depuis l'enfance je me passionneà ce sujet , du génocide vendéen aux civilisations perdues en passant par la guérilla communiste menée par Kim Il Sung en Corée... <br>
+l'Histoire m'a toujours intriguée . Depuis l'enfance je me passionne à ce sujet , du génocide vendéen aux civilisations perdues en passant par la guérilla communiste menée par Kim Il Sung en Corée... <br>
 Je peux passer des jours à me documenter sur un sujet sans jamais m'en lasser . <br>
-En espérant avoir la même capacité pour le développent web.
+En espérant avoir la même capacité pour le développent web.<P>
     
     
     

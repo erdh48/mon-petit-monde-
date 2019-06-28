@@ -22,6 +22,8 @@ J’aimerai pouvoir raconter mon voyage au Japon , ce que j'ai vu , ressenti , l
 Mon ascension au Mont Fuji , la vie nocturne Tokyoïte, le quartier nord-coréen en plein Tokyo .<br>
 Mais ce serait bien trop long à raconter...<br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Od6EeCWytZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <hr>
 <img src= " https://cdn.pixabay.com/photo/2016/12/12/22/31/japan-1902834_960_720.jpg  "   >
   

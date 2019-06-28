@@ -26,6 +26,8 @@ Mais ce serait bien trop long à raconter...<br>
   
   <br>
   <br>
+  <br>
+  <br>
    
   <body>
    <u>  <h4> MALDIVES </h4>  </u>
@@ -39,7 +41,10 @@ Un seul bémol et pas des moindres! Après avoir vu les Maldives, j'ai par la su
   <p>
       <img src= " https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704_960_720.jpg  "   >
    <hr>
-     
+   <br>
+   <br>
+   <br>
+   <br>
   <u>  <h4> BALI </h4>  </u>
    
    <p> Bali est une île d'Indonésie .

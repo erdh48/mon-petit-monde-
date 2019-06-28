@@ -63,8 +63,8 @@ Tout le charme d’une île du sud-est asiatique .<br>
     <br>
     <br>
     
-    <P> Découvrir de nouvelles cultures et d’autres horizons,  ma permis l’acceptation de l’autre . <br>
-    Voyager est un excellent moyen pour faire des rencontres, se libérer des préjugés, se remettre en question.
+    <P> Découvrir de nouvelles cultures et d’autres horizons, cela m'a permis l’acceptation de l’autre . <br>
+    Voyager est un excellent moyen pour faire des rencontres, se libérer des préjugés, et surtout se remettre en question.
     <P>
     
     <hr>

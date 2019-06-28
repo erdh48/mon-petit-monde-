@@ -5,9 +5,9 @@
   <body>
   <h2> MES PASSIONS PRINCIPALES </h2>
   
-    <u> <h3> LES VOYAGES </h3> </u> 
+     <h3> LES VOYAGES : </h3>  
   
-    <h4> JAPON </h4>
+  <u>   <h4> JAPON </h4>  </u>
     <p>
     
 Le Japon ce pays insulaire situé dans l'océan Pacifique , ma toujours fasciné .

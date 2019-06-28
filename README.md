@@ -12,7 +12,7 @@
     
 Le Japon ce pays insulaire situé dans l'océan Pacifique , m'a toujours fascinée . <br>
 
-Son histoire millénaire , sa gastronomie ,son histoire tulmutieuse avec ses proches voisins....<br> 
+Son histoire millénaire , sa gastronomie ,son histoire tumultueuse avec ses proches voisins....<br> 
 
 Cependant on ne va pas se mentir, du club Dorothée aux films de Miyazaki , j'ai toujours été baigné parfois sans le savoir dans la culture nippone depuis mon enfance cela à eu forcement une grande influence sur ma fascination pour Le Pays du Soleil-Levant . <br>
 

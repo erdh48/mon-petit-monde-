@@ -107,11 +107,11 @@ En espérant avoir la même capacité pour le développent web.<P>
 
  
  
-<p> cliquez <a href= "https://wikileaks.org/"> ici </a> pour vous rendre sur le site wikileaks  </p> <br>
+<p> cliquez <a href= "https://wikileaks.org/"> ici </a> pour vous rendre sur le site wikileaks  </p> 
 
-<p> cliquez <a href= "https://www.rt.com/"> ici </a> pour vous rendre sur le site RT news  </p> <br>
+<p> cliquez <a href= "https://www.rt.com/"> ici </a> pour vous rendre sur le site RT news  </p> 
 
-<p> cliquez <a href= "https://www.youtube.com/?hl=fr"> ici </a> pour vous rendre sur le site Youtube </p>  <br>
+<p> cliquez <a href= "https://www.youtube.com/?hl=fr"> ici </a> pour vous rendre sur le site Youtube </p>  
 
  <a href= "https://wikileaks.org/">  </a>
   

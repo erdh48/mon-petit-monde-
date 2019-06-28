@@ -39,7 +39,10 @@ Son histoire millénaire , sa gastronomie ....<p>
     <P>
     
     
-    video control preload="https://pixabay.com/fr/videos/particule-cosmique-cosmos-%C3%A9toiles-24241/" >
+    <video control preload="https://pixabay.com/fr/videos/particule-cosmique-cosmos-%C3%A9toiles-24241/" >
+    </video>
+    
+    
 
 
 

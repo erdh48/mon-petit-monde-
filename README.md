@@ -3,11 +3,11 @@
 
   </head>
   <body>
-  <h1> MES PASSIONS PRINCIPALES </h1>
+  <h2> MES PASSIONS PRINCIPALES </h2>
   
-    <h2> VOYAGES </h2>
+    <h3> VOYAGES </h3>
   
-    <h3> JAPON </h3>
+    <h4> JAPON </h4>
     <p>
     
 Le Japon ce pays insulaire situé dans l'océan Pacifique , ma toujours fasciné .
@@ -18,7 +18,7 @@ Son histoire millénaire , sa gastronomie ....<p>
   
    
   <body>
-    <h3> MALDIVES </h3>
+    <h4> MALDIVES </h4>
   
     
  <p>  Les Maldives sont un État insulaire de l'océan Indien.

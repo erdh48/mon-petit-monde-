@@ -1,6 +1,9 @@
+<!DOCTYPE html>
 <html>
   <head>
-
+<title> MON PETIT MONDE </title>
+    <meta charset = "utf = 8" >
+ <html>   
   </head>
   <body>
   <h2> MES PASSIONS PRINCIPALES </h2>
@@ -17,8 +20,8 @@ Son histoire millénaire , sa gastronomie ,son histoire tulmutieuse avec ses pro
 Cependant on ne va pas se mentir, du club Dorothée aux films de Miyazaki , j'ai toujours été baigné parfois sans le savoir dans la culture nippone depuis mon enfance cela à eu forcement une grande influence sur ma fascination pour Le Pays du Soleil-Levant . <br>
 
 
-J’aimerai pouvoir raconter mon voyage au Japon ce que j'ai vu , ressenti , le patrimoine historique ,la politesse des japonais,les véritables sushis qui fondent dans la bouche , mon ascension sur le Mont Fuji , la vie nocturne tokyoite, le quartier nord coréen en plein Tokyo. <br>
-Mais ce serait bien trop long à raconter. <br>
+J’aimerai pouvoir raconter mon voyage au Japon ce que j'ai vu , ressenti , le patrimoine historique , la politesse des japonais , les véritables sushis qui fondent dans la bouche , mon ascension sur le Mont Fuji , la vie nocturne tokyoite, le quartier nord coréen en plein Tokyo. <br>
+Mais ce serait bien trop long à raconter... <br>
 
 
 

@@ -33,9 +33,9 @@ Son histoire millénaire , sa gastronomie ....<p>
    
     <img src= " https://cdn.pixabay.com/photo/2016/07/13/10/56/rice-1514141_960_720.jpg  "   >
     
+    <br />
     
-    
-    <P> Découvrir de nouvelles cultures et d’autres horizons,  ma permis l’acceptation de l’autre ,  voyager est un excellent moyen pour faire des rencontres , se libérer des préjugés, se remettre en question.
+    <P> Découvrir de nouvelles cultures et d’autres horizons,  ma permis l’acceptation de l’autre ,  voyager est un excellent moyen pour faire des rencontres, se libérer des préjugés, se remettre en question.
     <P>
     
     

@@ -20,7 +20,7 @@ Cependant on ne va pas se mentir, du club Dorothée aux films de Miyazaki , j'ai
 J’aimerai pouvoir raconter mon voyage au Japon ce que j'ai vu , ressenti , le patrimoine historique , la politesse des japonais , les véritables sushis qui fondent dans la bouche , mon ascension sur le Mont Fuji , la vie nocturne tokyoite, le quartier nord coréen en plein Tokyo. <br>
 Mais ce serait bien trop long à raconter... <br>
 
-
+<hr>
 
   <img src= " https://cdn.pixabay.com/photo/2016/12/12/22/31/japan-1902834_960_720.jpg  "   >
   

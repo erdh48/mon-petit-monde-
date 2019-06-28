@@ -74,7 +74,12 @@ Tout le charme d’une île du sud-est asiatique .<br>
   <html>
  </head>
   <body>
-  <h3> l'histoire  </h3>  
+  <h3> l'Histoire  </h3>  
+ 
+ <hr>
+ <br>
+ 
+ <img src =" https://cdn.pixabay.com/photo/2018/07/29/22/18/tare-3571224_960_720.jpg " >
     
     
     

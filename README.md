@@ -24,7 +24,7 @@ Mais ce serait bien trop long à raconter...<br>
 
 <hr>
 
-<h4> shibuya crossing </h4>
+<h5> Shibuya crossing </h5>
 
 <p> Mon quartier préféré à Tokyo . <p>
  <hr>

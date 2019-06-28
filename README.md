@@ -22,6 +22,12 @@ Son histoire millénaire , sa gastronomie ....<p>
   
     
  <p>  Les Maldives sont un État insulaire de l'océan Indien.
- <p>
+   <p>
+   <h4> BALI </h4> 
+   <p> Bali est une île d'Indonésie
+<p>
+   
+    <img src= " https://cdn.pixabay.com/photo/2016/07/13/10/56/rice-1514141_960_720.jpg  "   >
+   
    
 <img src= " https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704_960_720.jpg  "   >

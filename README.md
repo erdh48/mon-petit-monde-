@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-<title> MON PETIT MONDE </title>
-    <meta charset = "utf = 8" >
+<!DOCTYPE html>  
+
  <html>   
   </head>
   <body>

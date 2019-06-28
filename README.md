@@ -98,10 +98,10 @@ En espérant avoir la même capacité pour le développent web.<P>
 
  
  
-<p> cliquez <a href= "https://wikileaks.org/"> ici </a> pour vous rendre sur la page d'acceuil  </p>
+<p> cliquez <a href= "https://wikileaks.org/"> ici </a> pour vous rendre sur le site   </p>
  
  
- <a href="https://wikileaks.org/">  </a>
+ <a href= "https://wikileaks.org/">  </a>
   
      
 

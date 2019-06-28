@@ -98,6 +98,9 @@ Tout le charme d’une île du sud-est asiatique .<br>
 l'Histoire m'a toujours intriguée . Depuis l'enfance je me passionne à ce sujet , du génocide vendéen , aux civilisations perdues en passant par la guérilla communiste menée par Kim Il Sung en Corée... <br>
 Je peux passer des jours à me documenter sur un sujet sans jamais m'en lasser . <br>
 En espérant avoir la même capacité pour le développent web...<P>
+ <br>
+ <hr>
+ <hr>
     
     
 
